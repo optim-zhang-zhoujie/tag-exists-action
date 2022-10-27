@@ -1,4 +1,4 @@
-name: "tag-exists-action"
+name: "tag-exists-action-v2"
 description: "Checks if a given tag exists"
 inputs:
   tag:
